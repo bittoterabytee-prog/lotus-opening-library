@@ -4,6 +4,7 @@ build/
 data/*.sqlite
 data/*.sqlite-*
 data/*.json
+!data/library-backup.json
 *.log
 .DS_Store
 .env

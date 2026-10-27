@@ -1,0 +1,2209 @@
+{
+  "format": "lotus-opening-library",
+  "version": 1,
+  "exportedAt": "2026-10-27T09:15:14.513Z",
+  "encounterPolicy": "Each accepted observation event counts once. Undo then repeating the same move at the same ply in the same session does not add another observation.",
+  "positions": [
+    {
+      "key": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
+    },
+    {
+      "key": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -",
+      "fen": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1"
+    },
+    {
+      "key": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "fen": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"
+    },
+    {
+      "key": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+      "fen": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2"
+    },
+    {
+      "key": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3"
+    },
+    {
+      "key": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -",
+      "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3"
+    },
+    {
+      "key": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -",
+      "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4"
+    },
+    {
+      "key": "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -",
+      "fen": "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4"
+    },
+    {
+      "key": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq -",
+      "fen": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 6 5"
+    },
+    {
+      "key": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq -",
+      "fen": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 7 5"
+    },
+    {
+      "key": "r1bqk2r/ppp2ppp/2np1n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq -",
+      "fen": "r1bqk2r/ppp2ppp/2np1n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq - 0 6"
+    },
+    {
+      "key": "r1bqk2r/ppp2ppp/2np1n2/1Bb1p3/3PP3/2N2N2/PPP2PPP/R1BQ1RK1 b kq -",
+      "fen": "r1bqk2r/ppp2ppp/2np1n2/1Bb1p3/3PP3/2N2N2/PPP2PPP/R1BQ1RK1 b kq - 0 6"
+    },
+    {
+      "key": "r1bqk1nr/pppp1ppp/2n5/2b1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -",
+      "fen": "r1bqk1nr/pppp1ppp/2n5/2b1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4"
+    },
+    {
+      "key": "r1bqk1nr/pppp1ppp/2n5/2b1N3/4P3/2N5/PPPP1PPP/R1BQKB1R b KQkq -",
+      "fen": "r1bqk1nr/pppp1ppp/2n5/2b1N3/4P3/2N5/PPPP1PPP/R1BQKB1R b KQkq - 0 4"
+    },
+    {
+      "key": "r1bqk1nr/pppp1ppp/8/2b1n3/4P3/2N5/PPPP1PPP/R1BQKB1R w KQkq -",
+      "fen": "r1bqk1nr/pppp1ppp/8/2b1n3/4P3/2N5/PPPP1PPP/R1BQKB1R w KQkq - 0 5"
+    },
+    {
+      "key": "r1bqk1nr/pppp1ppp/8/2b1n3/3PP3/2N5/PPP2PPP/R1BQKB1R b KQkq -",
+      "fen": "r1bqk1nr/pppp1ppp/8/2b1n3/3PP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 5"
+    },
+    {
+      "key": "r1bqk1nr/pppp1ppp/3b4/4n3/3PP3/2N5/PPP2PPP/R1BQKB1R w KQkq -",
+      "fen": "r1bqk1nr/pppp1ppp/3b4/4n3/3PP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 1 6"
+    },
+    {
+      "key": "r1bqk1nr/pppp1ppp/3b4/4P3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq -",
+      "fen": "r1bqk1nr/pppp1ppp/3b4/4P3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 6"
+    },
+    {
+      "key": "r1bqk1nr/pppp1ppp/8/4b3/4P3/2N5/PPP2PPP/R1BQKB1R w KQkq -",
+      "fen": "r1bqk1nr/pppp1ppp/8/4b3/4P3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 7"
+    },
+    {
+      "key": "r1bqk1nr/pppp1ppp/8/4b3/4P3/2NB4/PPP2PPP/R1BQK2R b KQkq -",
+      "fen": "r1bqk1nr/pppp1ppp/8/4b3/4P3/2NB4/PPP2PPP/R1BQK2R b KQkq - 1 7"
+    },
+    {
+      "key": "r1bqk2r/pppp1ppp/5n2/4b3/4P3/2NB4/PPP2PPP/R1BQK2R w KQkq -",
+      "fen": "r1bqk2r/pppp1ppp/5n2/4b3/4P3/2NB4/PPP2PPP/R1BQK2R w KQkq - 2 8"
+    },
+    {
+      "key": "r1bqk2r/pppp1ppp/5n2/4b3/4P3/2NB4/PPP2PPP/R1BQ1RK1 b kq -",
+      "fen": "r1bqk2r/pppp1ppp/5n2/4b3/4P3/2NB4/PPP2PPP/R1BQ1RK1 b kq - 3 8"
+    },
+    {
+      "key": "rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "fen": "rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3"
+    },
+    {
+      "key": "rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq -",
+      "fen": "rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3"
+    },
+    {
+      "key": "rnbqkb1r/ppp2ppp/3p1n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq -",
+      "fen": "rnbqkb1r/ppp2ppp/3p1n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4"
+    },
+    {
+      "key": "rnbqkb1r/ppp2ppp/3p1n2/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+      "fen": "rnbqkb1r/ppp2ppp/3p1n2/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 4"
+    },
+    {
+      "key": "rnbqkb1r/ppp2ppp/3p4/8/4n3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "fen": "rnbqkb1r/ppp2ppp/3p4/8/4n3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 5"
+    },
+    {
+      "key": "rnbqkb1r/ppp2ppp/3p4/8/3Pn3/5N2/PPP2PPP/RNBQKB1R b KQkq -",
+      "fen": "rnbqkb1r/ppp2ppp/3p4/8/3Pn3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 5"
+    },
+    {
+      "key": "rnbqkb1r/ppp2ppp/8/3p4/3Pn3/5N2/PPP2PPP/RNBQKB1R w KQkq -",
+      "fen": "rnbqkb1r/ppp2ppp/8/3p4/3Pn3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 6"
+    },
+    {
+      "key": "rnbqkb1r/ppp2ppp/8/3p4/3Pn3/3B1N2/PPP2PPP/RNBQK2R b KQkq -",
+      "fen": "rnbqkb1r/ppp2ppp/8/3p4/3Pn3/3B1N2/PPP2PPP/RNBQK2R b KQkq - 1 6"
+    },
+    {
+      "key": "rnbqk2r/ppp2ppp/3b4/3p4/3Pn3/3B1N2/PPP2PPP/RNBQK2R w KQkq -",
+      "fen": "rnbqk2r/ppp2ppp/3b4/3p4/3Pn3/3B1N2/PPP2PPP/RNBQK2R w KQkq - 2 7"
+    },
+    {
+      "key": "rnbqk2r/ppp2ppp/3b4/3p4/3Pn3/3B1N2/PPP2PPP/RNBQ1RK1 b kq -",
+      "fen": "rnbqk2r/ppp2ppp/3b4/3p4/3Pn3/3B1N2/PPP2PPP/RNBQ1RK1 b kq - 3 7"
+    }
+  ],
+  "moves": [
+    {
+      "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -",
+      "toKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -",
+      "uci": "e2e4",
+      "san": "e4"
+    },
+    {
+      "fromKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -",
+      "toKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "uci": "e7e5",
+      "san": "e5"
+    },
+    {
+      "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "toKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+      "uci": "g1f3",
+      "san": "Nf3"
+    },
+    {
+      "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+      "toKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "uci": "b8c6",
+      "san": "Nc6"
+    },
+    {
+      "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "toKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -",
+      "uci": "b1c3",
+      "san": "Nc3"
+    },
+    {
+      "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -",
+      "toKey": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -",
+      "uci": "g8f6",
+      "san": "Nf6"
+    },
+    {
+      "fromKey": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -",
+      "toKey": "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -",
+      "uci": "f1b5",
+      "san": "Bb5"
+    },
+    {
+      "fromKey": "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -",
+      "toKey": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq -",
+      "uci": "f8c5",
+      "san": "Bc5"
+    },
+    {
+      "fromKey": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq -",
+      "toKey": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq -",
+      "uci": "e1g1",
+      "san": "O-O"
+    },
+    {
+      "fromKey": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq -",
+      "toKey": "r1bqk2r/ppp2ppp/2np1n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq -",
+      "uci": "d7d6",
+      "san": "d6"
+    },
+    {
+      "fromKey": "r1bqk2r/ppp2ppp/2np1n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq -",
+      "toKey": "r1bqk2r/ppp2ppp/2np1n2/1Bb1p3/3PP3/2N2N2/PPP2PPP/R1BQ1RK1 b kq -",
+      "uci": "d2d4",
+      "san": "d4"
+    },
+    {
+      "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -",
+      "toKey": "r1bqk1nr/pppp1ppp/2n5/2b1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -",
+      "uci": "f8c5",
+      "san": "Bc5"
+    },
+    {
+      "fromKey": "r1bqk1nr/pppp1ppp/2n5/2b1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -",
+      "toKey": "r1bqk1nr/pppp1ppp/2n5/2b1N3/4P3/2N5/PPPP1PPP/R1BQKB1R b KQkq -",
+      "uci": "f3e5",
+      "san": "Nxe5"
+    },
+    {
+      "fromKey": "r1bqk1nr/pppp1ppp/2n5/2b1N3/4P3/2N5/PPPP1PPP/R1BQKB1R b KQkq -",
+      "toKey": "r1bqk1nr/pppp1ppp/8/2b1n3/4P3/2N5/PPPP1PPP/R1BQKB1R w KQkq -",
+      "uci": "c6e5",
+      "san": "Nxe5"
+    },
+    {
+      "fromKey": "r1bqk1nr/pppp1ppp/8/2b1n3/4P3/2N5/PPPP1PPP/R1BQKB1R w KQkq -",
+      "toKey": "r1bqk1nr/pppp1ppp/8/2b1n3/3PP3/2N5/PPP2PPP/R1BQKB1R b KQkq -",
+      "uci": "d2d4",
+      "san": "d4"
+    },
+    {
+      "fromKey": "r1bqk1nr/pppp1ppp/8/2b1n3/3PP3/2N5/PPP2PPP/R1BQKB1R b KQkq -",
+      "toKey": "r1bqk1nr/pppp1ppp/3b4/4n3/3PP3/2N5/PPP2PPP/R1BQKB1R w KQkq -",
+      "uci": "c5d6",
+      "san": "Bd6"
+    },
+    {
+      "fromKey": "r1bqk1nr/pppp1ppp/3b4/4n3/3PP3/2N5/PPP2PPP/R1BQKB1R w KQkq -",
+      "toKey": "r1bqk1nr/pppp1ppp/3b4/4P3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq -",
+      "uci": "d4e5",
+      "san": "dxe5"
+    },
+    {
+      "fromKey": "r1bqk1nr/pppp1ppp/3b4/4P3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq -",
+      "toKey": "r1bqk1nr/pppp1ppp/8/4b3/4P3/2N5/PPP2PPP/R1BQKB1R w KQkq -",
+      "uci": "d6e5",
+      "san": "Bxe5"
+    },
+    {
+      "fromKey": "r1bqk1nr/pppp1ppp/8/4b3/4P3/2N5/PPP2PPP/R1BQKB1R w KQkq -",
+      "toKey": "r1bqk1nr/pppp1ppp/8/4b3/4P3/2NB4/PPP2PPP/R1BQK2R b KQkq -",
+      "uci": "f1d3",
+      "san": "Bd3"
+    },
+    {
+      "fromKey": "r1bqk1nr/pppp1ppp/8/4b3/4P3/2NB4/PPP2PPP/R1BQK2R b KQkq -",
+      "toKey": "r1bqk2r/pppp1ppp/5n2/4b3/4P3/2NB4/PPP2PPP/R1BQK2R w KQkq -",
+      "uci": "g8f6",
+      "san": "Nf6"
+    },
+    {
+      "fromKey": "r1bqk2r/pppp1ppp/5n2/4b3/4P3/2NB4/PPP2PPP/R1BQK2R w KQkq -",
+      "toKey": "r1bqk2r/pppp1ppp/5n2/4b3/4P3/2NB4/PPP2PPP/R1BQ1RK1 b kq -",
+      "uci": "e1g1",
+      "san": "O-O"
+    },
+    {
+      "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+      "toKey": "rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "uci": "g8f6",
+      "san": "Nf6"
+    },
+    {
+      "fromKey": "rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "toKey": "rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq -",
+      "uci": "f3e5",
+      "san": "Nxe5"
+    },
+    {
+      "fromKey": "rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq -",
+      "toKey": "rnbqkb1r/ppp2ppp/3p1n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq -",
+      "uci": "d7d6",
+      "san": "d6"
+    },
+    {
+      "fromKey": "rnbqkb1r/ppp2ppp/3p1n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq -",
+      "toKey": "rnbqkb1r/ppp2ppp/3p1n2/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+      "uci": "e5f3",
+      "san": "Nf3"
+    },
+    {
+      "fromKey": "rnbqkb1r/ppp2ppp/3p1n2/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+      "toKey": "rnbqkb1r/ppp2ppp/3p4/8/4n3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "uci": "f6e4",
+      "san": "Nxe4"
+    },
+    {
+      "fromKey": "rnbqkb1r/ppp2ppp/3p4/8/4n3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "toKey": "rnbqkb1r/ppp2ppp/3p4/8/3Pn3/5N2/PPP2PPP/RNBQKB1R b KQkq -",
+      "uci": "d2d4",
+      "san": "d4"
+    },
+    {
+      "fromKey": "rnbqkb1r/ppp2ppp/3p4/8/3Pn3/5N2/PPP2PPP/RNBQKB1R b KQkq -",
+      "toKey": "rnbqkb1r/ppp2ppp/8/3p4/3Pn3/5N2/PPP2PPP/RNBQKB1R w KQkq -",
+      "uci": "d6d5",
+      "san": "d5"
+    },
+    {
+      "fromKey": "rnbqkb1r/ppp2ppp/8/3p4/3Pn3/5N2/PPP2PPP/RNBQKB1R w KQkq -",
+      "toKey": "rnbqkb1r/ppp2ppp/8/3p4/3Pn3/3B1N2/PPP2PPP/RNBQK2R b KQkq -",
+      "uci": "f1d3",
+      "san": "Bd3"
+    },
+    {
+      "fromKey": "rnbqkb1r/ppp2ppp/8/3p4/3Pn3/3B1N2/PPP2PPP/RNBQK2R b KQkq -",
+      "toKey": "rnbqk2r/ppp2ppp/3b4/3p4/3Pn3/3B1N2/PPP2PPP/RNBQK2R w KQkq -",
+      "uci": "f8d6",
+      "san": "Bd6"
+    },
+    {
+      "fromKey": "rnbqk2r/ppp2ppp/3b4/3p4/3Pn3/3B1N2/PPP2PPP/RNBQK2R w KQkq -",
+      "toKey": "rnbqk2r/ppp2ppp/3b4/3p4/3Pn3/3B1N2/PPP2PPP/RNBQ1RK1 b kq -",
+      "uci": "e1g1",
+      "san": "O-O"
+    }
+  ],
+  "sessions": [
+    {
+      "exportId": "s1",
+      "name": null,
+      "lessonName": null,
+      "status": "completed",
+      "startedAt": "2026-10-27 08:46:29",
+      "lastActivityAt": "2026-10-27 08:48:01",
+      "ply": 6,
+      "currentFen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4",
+      "line": [
+        {
+          "ply": 1,
+          "uci": "e2e4",
+          "san": "e4",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -"
+        },
+        {
+          "ply": 2,
+          "uci": "e7e5",
+          "san": "e5",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -"
+        },
+        {
+          "ply": 3,
+          "uci": "g1f3",
+          "san": "Nf3",
+          "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -"
+        },
+        {
+          "ply": 4,
+          "uci": "b8c6",
+          "san": "Nc6",
+          "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -"
+        },
+        {
+          "ply": 5,
+          "uci": "b1c3",
+          "san": "Nc3",
+          "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -"
+        },
+        {
+          "ply": 6,
+          "uci": "g8f6",
+          "san": "Nf6",
+          "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -"
+        }
+      ]
+    },
+    {
+      "exportId": "s2",
+      "name": null,
+      "lessonName": "Four knights game",
+      "status": "completed",
+      "startedAt": "2026-10-27 08:48:01",
+      "lastActivityAt": "2026-10-27 08:49:28",
+      "ply": 11,
+      "currentFen": "r1bqk2r/ppp2ppp/2np1n2/1Bb1p3/3PP3/2N2N2/PPP2PPP/R1BQ1RK1 b kq - 0 6",
+      "line": [
+        {
+          "ply": 1,
+          "uci": "e2e4",
+          "san": "e4",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -"
+        },
+        {
+          "ply": 2,
+          "uci": "e7e5",
+          "san": "e5",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -"
+        },
+        {
+          "ply": 3,
+          "uci": "g1f3",
+          "san": "Nf3",
+          "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -"
+        },
+        {
+          "ply": 4,
+          "uci": "b8c6",
+          "san": "Nc6",
+          "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -"
+        },
+        {
+          "ply": 5,
+          "uci": "b1c3",
+          "san": "Nc3",
+          "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -"
+        },
+        {
+          "ply": 6,
+          "uci": "g8f6",
+          "san": "Nf6",
+          "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -"
+        },
+        {
+          "ply": 7,
+          "uci": "f1b5",
+          "san": "Bb5",
+          "fromKey": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -"
+        },
+        {
+          "ply": 8,
+          "uci": "f8c5",
+          "san": "Bc5",
+          "fromKey": "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -"
+        },
+        {
+          "ply": 9,
+          "uci": "e1g1",
+          "san": "O-O",
+          "fromKey": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq -"
+        },
+        {
+          "ply": 10,
+          "uci": "d7d6",
+          "san": "d6",
+          "fromKey": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq -"
+        },
+        {
+          "ply": 11,
+          "uci": "d2d4",
+          "san": "d4",
+          "fromKey": "r1bqk2r/ppp2ppp/2np1n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq -"
+        }
+      ]
+    },
+    {
+      "exportId": "s3",
+      "name": null,
+      "lessonName": null,
+      "status": "completed",
+      "startedAt": "2026-10-27 08:49:08",
+      "lastActivityAt": "2026-10-27 08:49:50",
+      "ply": 1,
+      "currentFen": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1",
+      "line": [
+        {
+          "ply": 1,
+          "uci": "e2e4",
+          "san": "e4",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -"
+        }
+      ]
+    },
+    {
+      "exportId": "s4",
+      "name": null,
+      "lessonName": "Four knights game",
+      "status": "completed",
+      "startedAt": "2026-10-27 08:49:50",
+      "lastActivityAt": "2026-10-27 08:55:50",
+      "ply": 11,
+      "currentFen": "r1bqk2r/ppp2ppp/2np1n2/1Bb1p3/3PP3/2N2N2/PPP2PPP/R1BQ1RK1 b kq - 0 6",
+      "line": [
+        {
+          "ply": 1,
+          "uci": "e2e4",
+          "san": "e4",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -"
+        },
+        {
+          "ply": 2,
+          "uci": "e7e5",
+          "san": "e5",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -"
+        },
+        {
+          "ply": 3,
+          "uci": "g1f3",
+          "san": "Nf3",
+          "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -"
+        },
+        {
+          "ply": 4,
+          "uci": "b8c6",
+          "san": "Nc6",
+          "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -"
+        },
+        {
+          "ply": 5,
+          "uci": "b1c3",
+          "san": "Nc3",
+          "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -"
+        },
+        {
+          "ply": 6,
+          "uci": "g8f6",
+          "san": "Nf6",
+          "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -"
+        },
+        {
+          "ply": 7,
+          "uci": "f1b5",
+          "san": "Bb5",
+          "fromKey": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -"
+        },
+        {
+          "ply": 8,
+          "uci": "f8c5",
+          "san": "Bc5",
+          "fromKey": "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -"
+        },
+        {
+          "ply": 9,
+          "uci": "e1g1",
+          "san": "O-O",
+          "fromKey": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq -"
+        },
+        {
+          "ply": 10,
+          "uci": "d7d6",
+          "san": "d6",
+          "fromKey": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq -"
+        },
+        {
+          "ply": 11,
+          "uci": "d2d4",
+          "san": "d4",
+          "fromKey": "r1bqk2r/ppp2ppp/2np1n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq -"
+        }
+      ]
+    },
+    {
+      "exportId": "s5",
+      "name": null,
+      "lessonName": "Four knights game",
+      "status": "completed",
+      "startedAt": "2026-10-27 08:55:50",
+      "lastActivityAt": "2026-10-27 08:56:37",
+      "ply": 11,
+      "currentFen": "r1bqk2r/ppp2ppp/2np1n2/1Bb1p3/3PP3/2N2N2/PPP2PPP/R1BQ1RK1 b kq - 0 6",
+      "line": [
+        {
+          "ply": 1,
+          "uci": "e2e4",
+          "san": "e4",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -"
+        },
+        {
+          "ply": 2,
+          "uci": "e7e5",
+          "san": "e5",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -"
+        },
+        {
+          "ply": 3,
+          "uci": "g1f3",
+          "san": "Nf3",
+          "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -"
+        },
+        {
+          "ply": 4,
+          "uci": "b8c6",
+          "san": "Nc6",
+          "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -"
+        },
+        {
+          "ply": 5,
+          "uci": "b1c3",
+          "san": "Nc3",
+          "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -"
+        },
+        {
+          "ply": 6,
+          "uci": "g8f6",
+          "san": "Nf6",
+          "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -"
+        },
+        {
+          "ply": 7,
+          "uci": "f1b5",
+          "san": "Bb5",
+          "fromKey": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -"
+        },
+        {
+          "ply": 8,
+          "uci": "f8c5",
+          "san": "Bc5",
+          "fromKey": "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -"
+        },
+        {
+          "ply": 9,
+          "uci": "e1g1",
+          "san": "O-O",
+          "fromKey": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq -"
+        },
+        {
+          "ply": 10,
+          "uci": "d7d6",
+          "san": "d6",
+          "fromKey": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq -"
+        },
+        {
+          "ply": 11,
+          "uci": "d2d4",
+          "san": "d4",
+          "fromKey": "r1bqk2r/ppp2ppp/2np1n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq -"
+        }
+      ]
+    },
+    {
+      "exportId": "s6",
+      "name": null,
+      "lessonName": "Four knights game",
+      "status": "abandoned",
+      "startedAt": "2026-10-27 08:56:37",
+      "lastActivityAt": "2026-10-27 08:57:40",
+      "ply": 0,
+      "currentFen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "line": []
+    },
+    {
+      "exportId": "s7",
+      "name": null,
+      "lessonName": "Four knights game",
+      "status": "abandoned",
+      "startedAt": "2026-10-27 08:57:40",
+      "lastActivityAt": "2026-10-27 08:59:20",
+      "ply": 0,
+      "currentFen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "line": []
+    },
+    {
+      "exportId": "s8",
+      "name": null,
+      "lessonName": "Four knights game",
+      "status": "completed",
+      "startedAt": "2026-10-27 08:59:20",
+      "lastActivityAt": "2026-10-27 09:00:26",
+      "ply": 11,
+      "currentFen": "r1bqk2r/ppp2ppp/2np1n2/1Bb1p3/3PP3/2N2N2/PPP2PPP/R1BQ1RK1 b kq - 0 6",
+      "line": [
+        {
+          "ply": 1,
+          "uci": "e2e4",
+          "san": "e4",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -"
+        },
+        {
+          "ply": 2,
+          "uci": "e7e5",
+          "san": "e5",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -"
+        },
+        {
+          "ply": 3,
+          "uci": "g1f3",
+          "san": "Nf3",
+          "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -"
+        },
+        {
+          "ply": 4,
+          "uci": "b8c6",
+          "san": "Nc6",
+          "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -"
+        },
+        {
+          "ply": 5,
+          "uci": "b1c3",
+          "san": "Nc3",
+          "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -"
+        },
+        {
+          "ply": 6,
+          "uci": "g8f6",
+          "san": "Nf6",
+          "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -"
+        },
+        {
+          "ply": 7,
+          "uci": "f1b5",
+          "san": "Bb5",
+          "fromKey": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -"
+        },
+        {
+          "ply": 8,
+          "uci": "f8c5",
+          "san": "Bc5",
+          "fromKey": "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -"
+        },
+        {
+          "ply": 9,
+          "uci": "e1g1",
+          "san": "O-O",
+          "fromKey": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq -"
+        },
+        {
+          "ply": 10,
+          "uci": "d7d6",
+          "san": "d6",
+          "fromKey": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq -"
+        },
+        {
+          "ply": 11,
+          "uci": "d2d4",
+          "san": "d4",
+          "fromKey": "r1bqk2r/ppp2ppp/2np1n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq -"
+        }
+      ]
+    },
+    {
+      "exportId": "s9",
+      "name": null,
+      "lessonName": "Four knights game",
+      "status": "completed",
+      "startedAt": "2026-10-27 09:00:26",
+      "lastActivityAt": "2026-10-27 09:01:50",
+      "ply": 15,
+      "currentFen": "r1bqk2r/pppp1ppp/5n2/4b3/4P3/2NB4/PPP2PPP/R1BQ1RK1 b kq - 3 8",
+      "line": [
+        {
+          "ply": 1,
+          "uci": "e2e4",
+          "san": "e4",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -"
+        },
+        {
+          "ply": 2,
+          "uci": "e7e5",
+          "san": "e5",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -"
+        },
+        {
+          "ply": 3,
+          "uci": "g1f3",
+          "san": "Nf3",
+          "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -"
+        },
+        {
+          "ply": 4,
+          "uci": "b8c6",
+          "san": "Nc6",
+          "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -"
+        },
+        {
+          "ply": 5,
+          "uci": "b1c3",
+          "san": "Nc3",
+          "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -"
+        },
+        {
+          "ply": 6,
+          "uci": "f8c5",
+          "san": "Bc5",
+          "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -"
+        },
+        {
+          "ply": 7,
+          "uci": "f3e5",
+          "san": "Nxe5",
+          "fromKey": "r1bqk1nr/pppp1ppp/2n5/2b1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -"
+        },
+        {
+          "ply": 8,
+          "uci": "c6e5",
+          "san": "Nxe5",
+          "fromKey": "r1bqk1nr/pppp1ppp/2n5/2b1N3/4P3/2N5/PPPP1PPP/R1BQKB1R b KQkq -"
+        },
+        {
+          "ply": 9,
+          "uci": "d2d4",
+          "san": "d4",
+          "fromKey": "r1bqk1nr/pppp1ppp/8/2b1n3/4P3/2N5/PPPP1PPP/R1BQKB1R w KQkq -"
+        },
+        {
+          "ply": 10,
+          "uci": "c5d6",
+          "san": "Bd6",
+          "fromKey": "r1bqk1nr/pppp1ppp/8/2b1n3/3PP3/2N5/PPP2PPP/R1BQKB1R b KQkq -"
+        },
+        {
+          "ply": 11,
+          "uci": "d4e5",
+          "san": "dxe5",
+          "fromKey": "r1bqk1nr/pppp1ppp/3b4/4n3/3PP3/2N5/PPP2PPP/R1BQKB1R w KQkq -"
+        },
+        {
+          "ply": 12,
+          "uci": "d6e5",
+          "san": "Bxe5",
+          "fromKey": "r1bqk1nr/pppp1ppp/3b4/4P3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq -"
+        },
+        {
+          "ply": 13,
+          "uci": "f1d3",
+          "san": "Bd3",
+          "fromKey": "r1bqk1nr/pppp1ppp/8/4b3/4P3/2N5/PPP2PPP/R1BQKB1R w KQkq -"
+        },
+        {
+          "ply": 14,
+          "uci": "g8f6",
+          "san": "Nf6",
+          "fromKey": "r1bqk1nr/pppp1ppp/8/4b3/4P3/2NB4/PPP2PPP/R1BQK2R b KQkq -"
+        },
+        {
+          "ply": 15,
+          "uci": "e1g1",
+          "san": "O-O",
+          "fromKey": "r1bqk2r/pppp1ppp/5n2/4b3/4P3/2NB4/PPP2PPP/R1BQK2R w KQkq -"
+        }
+      ]
+    },
+    {
+      "exportId": "s10",
+      "name": null,
+      "lessonName": "Four knights game",
+      "status": "completed",
+      "startedAt": "2026-10-27 09:01:50",
+      "lastActivityAt": "2026-10-27 09:02:36",
+      "ply": 15,
+      "currentFen": "r1bqk2r/pppp1ppp/5n2/4b3/4P3/2NB4/PPP2PPP/R1BQ1RK1 b kq - 3 8",
+      "line": [
+        {
+          "ply": 1,
+          "uci": "e2e4",
+          "san": "e4",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -"
+        },
+        {
+          "ply": 2,
+          "uci": "e7e5",
+          "san": "e5",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -"
+        },
+        {
+          "ply": 3,
+          "uci": "g1f3",
+          "san": "Nf3",
+          "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -"
+        },
+        {
+          "ply": 4,
+          "uci": "b8c6",
+          "san": "Nc6",
+          "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -"
+        },
+        {
+          "ply": 5,
+          "uci": "b1c3",
+          "san": "Nc3",
+          "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -"
+        },
+        {
+          "ply": 6,
+          "uci": "f8c5",
+          "san": "Bc5",
+          "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -"
+        },
+        {
+          "ply": 7,
+          "uci": "f3e5",
+          "san": "Nxe5",
+          "fromKey": "r1bqk1nr/pppp1ppp/2n5/2b1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -"
+        },
+        {
+          "ply": 8,
+          "uci": "c6e5",
+          "san": "Nxe5",
+          "fromKey": "r1bqk1nr/pppp1ppp/2n5/2b1N3/4P3/2N5/PPPP1PPP/R1BQKB1R b KQkq -"
+        },
+        {
+          "ply": 9,
+          "uci": "d2d4",
+          "san": "d4",
+          "fromKey": "r1bqk1nr/pppp1ppp/8/2b1n3/4P3/2N5/PPPP1PPP/R1BQKB1R w KQkq -"
+        },
+        {
+          "ply": 10,
+          "uci": "c5d6",
+          "san": "Bd6",
+          "fromKey": "r1bqk1nr/pppp1ppp/8/2b1n3/3PP3/2N5/PPP2PPP/R1BQKB1R b KQkq -"
+        },
+        {
+          "ply": 11,
+          "uci": "d4e5",
+          "san": "dxe5",
+          "fromKey": "r1bqk1nr/pppp1ppp/3b4/4n3/3PP3/2N5/PPP2PPP/R1BQKB1R w KQkq -"
+        },
+        {
+          "ply": 12,
+          "uci": "d6e5",
+          "san": "Bxe5",
+          "fromKey": "r1bqk1nr/pppp1ppp/3b4/4P3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq -"
+        },
+        {
+          "ply": 13,
+          "uci": "f1d3",
+          "san": "Bd3",
+          "fromKey": "r1bqk1nr/pppp1ppp/8/4b3/4P3/2N5/PPP2PPP/R1BQKB1R w KQkq -"
+        },
+        {
+          "ply": 14,
+          "uci": "g8f6",
+          "san": "Nf6",
+          "fromKey": "r1bqk1nr/pppp1ppp/8/4b3/4P3/2NB4/PPP2PPP/R1BQK2R b KQkq -"
+        },
+        {
+          "ply": 15,
+          "uci": "e1g1",
+          "san": "O-O",
+          "fromKey": "r1bqk2r/pppp1ppp/5n2/4b3/4P3/2NB4/PPP2PPP/R1BQK2R w KQkq -"
+        }
+      ]
+    },
+    {
+      "exportId": "s11",
+      "name": null,
+      "lessonName": "Four knights game",
+      "status": "completed",
+      "startedAt": "2026-10-27 09:02:36",
+      "lastActivityAt": "2026-10-27 09:05:08",
+      "ply": 15,
+      "currentFen": "r1bqk2r/pppp1ppp/5n2/4b3/4P3/2NB4/PPP2PPP/R1BQ1RK1 b kq - 3 8",
+      "line": [
+        {
+          "ply": 1,
+          "uci": "e2e4",
+          "san": "e4",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -"
+        },
+        {
+          "ply": 2,
+          "uci": "e7e5",
+          "san": "e5",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -"
+        },
+        {
+          "ply": 3,
+          "uci": "g1f3",
+          "san": "Nf3",
+          "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -"
+        },
+        {
+          "ply": 4,
+          "uci": "b8c6",
+          "san": "Nc6",
+          "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -"
+        },
+        {
+          "ply": 5,
+          "uci": "b1c3",
+          "san": "Nc3",
+          "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -"
+        },
+        {
+          "ply": 6,
+          "uci": "f8c5",
+          "san": "Bc5",
+          "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -"
+        },
+        {
+          "ply": 7,
+          "uci": "f3e5",
+          "san": "Nxe5",
+          "fromKey": "r1bqk1nr/pppp1ppp/2n5/2b1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -"
+        },
+        {
+          "ply": 8,
+          "uci": "c6e5",
+          "san": "Nxe5",
+          "fromKey": "r1bqk1nr/pppp1ppp/2n5/2b1N3/4P3/2N5/PPPP1PPP/R1BQKB1R b KQkq -"
+        },
+        {
+          "ply": 9,
+          "uci": "d2d4",
+          "san": "d4",
+          "fromKey": "r1bqk1nr/pppp1ppp/8/2b1n3/4P3/2N5/PPPP1PPP/R1BQKB1R w KQkq -"
+        },
+        {
+          "ply": 10,
+          "uci": "c5d6",
+          "san": "Bd6",
+          "fromKey": "r1bqk1nr/pppp1ppp/8/2b1n3/3PP3/2N5/PPP2PPP/R1BQKB1R b KQkq -"
+        },
+        {
+          "ply": 11,
+          "uci": "d4e5",
+          "san": "dxe5",
+          "fromKey": "r1bqk1nr/pppp1ppp/3b4/4n3/3PP3/2N5/PPP2PPP/R1BQKB1R w KQkq -"
+        },
+        {
+          "ply": 12,
+          "uci": "d6e5",
+          "san": "Bxe5",
+          "fromKey": "r1bqk1nr/pppp1ppp/3b4/4P3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq -"
+        },
+        {
+          "ply": 13,
+          "uci": "f1d3",
+          "san": "Bd3",
+          "fromKey": "r1bqk1nr/pppp1ppp/8/4b3/4P3/2N5/PPP2PPP/R1BQKB1R w KQkq -"
+        },
+        {
+          "ply": 14,
+          "uci": "g8f6",
+          "san": "Nf6",
+          "fromKey": "r1bqk1nr/pppp1ppp/8/4b3/4P3/2NB4/PPP2PPP/R1BQK2R b KQkq -"
+        },
+        {
+          "ply": 15,
+          "uci": "e1g1",
+          "san": "O-O",
+          "fromKey": "r1bqk2r/pppp1ppp/5n2/4b3/4P3/2NB4/PPP2PPP/R1BQK2R w KQkq -"
+        }
+      ]
+    },
+    {
+      "exportId": "s12",
+      "name": null,
+      "lessonName": "Four knights game",
+      "status": "completed",
+      "startedAt": "2026-10-27 09:05:08",
+      "lastActivityAt": "2026-10-27 09:06:01",
+      "ply": 13,
+      "currentFen": "rnbqk2r/ppp2ppp/3b4/3p4/3Pn3/3B1N2/PPP2PPP/RNBQ1RK1 b kq - 3 7",
+      "line": [
+        {
+          "ply": 1,
+          "uci": "e2e4",
+          "san": "e4",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -"
+        },
+        {
+          "ply": 2,
+          "uci": "e7e5",
+          "san": "e5",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -"
+        },
+        {
+          "ply": 3,
+          "uci": "g1f3",
+          "san": "Nf3",
+          "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -"
+        },
+        {
+          "ply": 4,
+          "uci": "g8f6",
+          "san": "Nf6",
+          "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -"
+        },
+        {
+          "ply": 5,
+          "uci": "f3e5",
+          "san": "Nxe5",
+          "fromKey": "rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -"
+        },
+        {
+          "ply": 6,
+          "uci": "d7d6",
+          "san": "d6",
+          "fromKey": "rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq -"
+        },
+        {
+          "ply": 7,
+          "uci": "e5f3",
+          "san": "Nf3",
+          "fromKey": "rnbqkb1r/ppp2ppp/3p1n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq -"
+        },
+        {
+          "ply": 8,
+          "uci": "f6e4",
+          "san": "Nxe4",
+          "fromKey": "rnbqkb1r/ppp2ppp/3p1n2/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -"
+        },
+        {
+          "ply": 9,
+          "uci": "d2d4",
+          "san": "d4",
+          "fromKey": "rnbqkb1r/ppp2ppp/3p4/8/4n3/5N2/PPPP1PPP/RNBQKB1R w KQkq -"
+        },
+        {
+          "ply": 10,
+          "uci": "d6d5",
+          "san": "d5",
+          "fromKey": "rnbqkb1r/ppp2ppp/3p4/8/3Pn3/5N2/PPP2PPP/RNBQKB1R b KQkq -"
+        },
+        {
+          "ply": 11,
+          "uci": "f1d3",
+          "san": "Bd3",
+          "fromKey": "rnbqkb1r/ppp2ppp/8/3p4/3Pn3/5N2/PPP2PPP/RNBQKB1R w KQkq -"
+        },
+        {
+          "ply": 12,
+          "uci": "f8d6",
+          "san": "Bd6",
+          "fromKey": "rnbqkb1r/ppp2ppp/8/3p4/3Pn3/3B1N2/PPP2PPP/RNBQK2R b KQkq -"
+        },
+        {
+          "ply": 13,
+          "uci": "e1g1",
+          "san": "O-O",
+          "fromKey": "rnbqk2r/ppp2ppp/3b4/3p4/3Pn3/3B1N2/PPP2PPP/RNBQK2R w KQkq -"
+        }
+      ]
+    },
+    {
+      "exportId": "s13",
+      "name": null,
+      "lessonName": "Four knights game",
+      "status": "active",
+      "startedAt": "2026-10-27 09:06:01",
+      "lastActivityAt": "2026-10-27 09:06:08",
+      "ply": 3,
+      "currentFen": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2",
+      "line": [
+        {
+          "ply": 1,
+          "uci": "e2e4",
+          "san": "e4",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -"
+        },
+        {
+          "ply": 2,
+          "uci": "e7e5",
+          "san": "e5",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -"
+        },
+        {
+          "ply": 3,
+          "uci": "g1f3",
+          "san": "Nf3",
+          "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -"
+        }
+      ]
+    }
+  ],
+  "observations": [
+    {
+      "sessionExportId": "s1",
+      "ply": 1,
+      "observedAt": "2026-10-27 08:47:01",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -",
+      "uci": "e2e4",
+      "san": "e4"
+    },
+    {
+      "sessionExportId": "s1",
+      "ply": 2,
+      "observedAt": "2026-10-27 08:47:20",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -",
+      "uci": "e7e5",
+      "san": "e5"
+    },
+    {
+      "sessionExportId": "s1",
+      "ply": 3,
+      "observedAt": "2026-10-27 08:47:31",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "uci": "g1f3",
+      "san": "Nf3"
+    },
+    {
+      "sessionExportId": "s1",
+      "ply": 4,
+      "observedAt": "2026-10-27 08:47:36",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+      "uci": "b8c6",
+      "san": "Nc6"
+    },
+    {
+      "sessionExportId": "s1",
+      "ply": 5,
+      "observedAt": "2026-10-27 08:47:46",
+      "source": "manual",
+      "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "uci": "b1c3",
+      "san": "Nc3"
+    },
+    {
+      "sessionExportId": "s1",
+      "ply": 6,
+      "observedAt": "2026-10-27 08:47:48",
+      "source": "manual",
+      "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -",
+      "uci": "g8f6",
+      "san": "Nf6"
+    },
+    {
+      "sessionExportId": "s2",
+      "ply": 1,
+      "observedAt": "2026-10-27 08:48:29",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -",
+      "uci": "e2e4",
+      "san": "e4"
+    },
+    {
+      "sessionExportId": "s2",
+      "ply": 2,
+      "observedAt": "2026-10-27 08:48:31",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -",
+      "uci": "e7e5",
+      "san": "e5"
+    },
+    {
+      "sessionExportId": "s2",
+      "ply": 3,
+      "observedAt": "2026-10-27 08:48:37",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "uci": "g1f3",
+      "san": "Nf3"
+    },
+    {
+      "sessionExportId": "s2",
+      "ply": 4,
+      "observedAt": "2026-10-27 08:48:41",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+      "uci": "b8c6",
+      "san": "Nc6"
+    },
+    {
+      "sessionExportId": "s2",
+      "ply": 5,
+      "observedAt": "2026-10-27 08:48:43",
+      "source": "manual",
+      "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "uci": "b1c3",
+      "san": "Nc3"
+    },
+    {
+      "sessionExportId": "s2",
+      "ply": 6,
+      "observedAt": "2026-10-27 08:48:51",
+      "source": "manual",
+      "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -",
+      "uci": "g8f6",
+      "san": "Nf6"
+    },
+    {
+      "sessionExportId": "s2",
+      "ply": 7,
+      "observedAt": "2026-10-27 08:48:53",
+      "source": "manual",
+      "fromKey": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -",
+      "uci": "f1b5",
+      "san": "Bb5"
+    },
+    {
+      "sessionExportId": "s2",
+      "ply": 8,
+      "observedAt": "2026-10-27 08:48:56",
+      "source": "manual",
+      "fromKey": "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -",
+      "uci": "f8c5",
+      "san": "Bc5"
+    },
+    {
+      "sessionExportId": "s2",
+      "ply": 9,
+      "observedAt": "2026-10-27 08:48:59",
+      "source": "manual",
+      "fromKey": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq -",
+      "uci": "e1g1",
+      "san": "O-O"
+    },
+    {
+      "sessionExportId": "s2",
+      "ply": 10,
+      "observedAt": "2026-10-27 08:49:04",
+      "source": "manual",
+      "fromKey": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq -",
+      "uci": "d7d6",
+      "san": "d6"
+    },
+    {
+      "sessionExportId": "s2",
+      "ply": 11,
+      "observedAt": "2026-10-27 08:49:07",
+      "source": "manual",
+      "fromKey": "r1bqk2r/ppp2ppp/2np1n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq -",
+      "uci": "d2d4",
+      "san": "d4"
+    },
+    {
+      "sessionExportId": "s3",
+      "ply": 1,
+      "observedAt": "2026-10-27 08:49:33",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -",
+      "uci": "e2e4",
+      "san": "e4"
+    },
+    {
+      "sessionExportId": "s4",
+      "ply": 1,
+      "observedAt": "2026-10-27 08:49:53",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -",
+      "uci": "e2e4",
+      "san": "e4"
+    },
+    {
+      "sessionExportId": "s4",
+      "ply": 2,
+      "observedAt": "2026-10-27 08:50:06",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -",
+      "uci": "e7e5",
+      "san": "e5"
+    },
+    {
+      "sessionExportId": "s4",
+      "ply": 3,
+      "observedAt": "2026-10-27 08:50:10",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "uci": "g1f3",
+      "san": "Nf3"
+    },
+    {
+      "sessionExportId": "s4",
+      "ply": 4,
+      "observedAt": "2026-10-27 08:50:14",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+      "uci": "b8c6",
+      "san": "Nc6"
+    },
+    {
+      "sessionExportId": "s4",
+      "ply": 5,
+      "observedAt": "2026-10-27 08:50:21",
+      "source": "manual",
+      "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "uci": "b1c3",
+      "san": "Nc3"
+    },
+    {
+      "sessionExportId": "s4",
+      "ply": 6,
+      "observedAt": "2026-10-27 08:50:24",
+      "source": "manual",
+      "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -",
+      "uci": "g8f6",
+      "san": "Nf6"
+    },
+    {
+      "sessionExportId": "s4",
+      "ply": 7,
+      "observedAt": "2026-10-27 08:50:29",
+      "source": "manual",
+      "fromKey": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -",
+      "uci": "f1b5",
+      "san": "Bb5"
+    },
+    {
+      "sessionExportId": "s4",
+      "ply": 8,
+      "observedAt": "2026-10-27 08:50:33",
+      "source": "manual",
+      "fromKey": "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -",
+      "uci": "f8c5",
+      "san": "Bc5"
+    },
+    {
+      "sessionExportId": "s4",
+      "ply": 9,
+      "observedAt": "2026-10-27 08:50:36",
+      "source": "manual",
+      "fromKey": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq -",
+      "uci": "e1g1",
+      "san": "O-O"
+    },
+    {
+      "sessionExportId": "s4",
+      "ply": 10,
+      "observedAt": "2026-10-27 08:54:28",
+      "source": "manual",
+      "fromKey": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq -",
+      "uci": "d7d6",
+      "san": "d6"
+    },
+    {
+      "sessionExportId": "s4",
+      "ply": 11,
+      "observedAt": "2026-10-27 08:54:32",
+      "source": "manual",
+      "fromKey": "r1bqk2r/ppp2ppp/2np1n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq -",
+      "uci": "d2d4",
+      "san": "d4"
+    },
+    {
+      "sessionExportId": "s5",
+      "ply": 1,
+      "observedAt": "2026-10-27 08:55:52",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -",
+      "uci": "e2e4",
+      "san": "e4"
+    },
+    {
+      "sessionExportId": "s5",
+      "ply": 2,
+      "observedAt": "2026-10-27 08:55:55",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -",
+      "uci": "e7e5",
+      "san": "e5"
+    },
+    {
+      "sessionExportId": "s5",
+      "ply": 3,
+      "observedAt": "2026-10-27 08:55:57",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "uci": "g1f3",
+      "san": "Nf3"
+    },
+    {
+      "sessionExportId": "s5",
+      "ply": 4,
+      "observedAt": "2026-10-27 08:56:01",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+      "uci": "b8c6",
+      "san": "Nc6"
+    },
+    {
+      "sessionExportId": "s5",
+      "ply": 5,
+      "observedAt": "2026-10-27 08:56:04",
+      "source": "manual",
+      "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "uci": "b1c3",
+      "san": "Nc3"
+    },
+    {
+      "sessionExportId": "s5",
+      "ply": 6,
+      "observedAt": "2026-10-27 08:56:07",
+      "source": "manual",
+      "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -",
+      "uci": "g8f6",
+      "san": "Nf6"
+    },
+    {
+      "sessionExportId": "s5",
+      "ply": 7,
+      "observedAt": "2026-10-27 08:56:10",
+      "source": "manual",
+      "fromKey": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -",
+      "uci": "f1b5",
+      "san": "Bb5"
+    },
+    {
+      "sessionExportId": "s5",
+      "ply": 8,
+      "observedAt": "2026-10-27 08:56:17",
+      "source": "manual",
+      "fromKey": "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -",
+      "uci": "f8c5",
+      "san": "Bc5"
+    },
+    {
+      "sessionExportId": "s5",
+      "ply": 9,
+      "observedAt": "2026-10-27 08:56:21",
+      "source": "manual",
+      "fromKey": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq -",
+      "uci": "e1g1",
+      "san": "O-O"
+    },
+    {
+      "sessionExportId": "s5",
+      "ply": 10,
+      "observedAt": "2026-10-27 08:56:24",
+      "source": "manual",
+      "fromKey": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq -",
+      "uci": "d7d6",
+      "san": "d6"
+    },
+    {
+      "sessionExportId": "s5",
+      "ply": 11,
+      "observedAt": "2026-10-27 08:56:26",
+      "source": "manual",
+      "fromKey": "r1bqk2r/ppp2ppp/2np1n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq -",
+      "uci": "d2d4",
+      "san": "d4"
+    },
+    {
+      "sessionExportId": "s8",
+      "ply": 1,
+      "observedAt": "2026-10-27 08:59:40",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -",
+      "uci": "e2e4",
+      "san": "e4"
+    },
+    {
+      "sessionExportId": "s8",
+      "ply": 2,
+      "observedAt": "2026-10-27 08:59:43",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -",
+      "uci": "e7e5",
+      "san": "e5"
+    },
+    {
+      "sessionExportId": "s8",
+      "ply": 3,
+      "observedAt": "2026-10-27 08:59:45",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "uci": "g1f3",
+      "san": "Nf3"
+    },
+    {
+      "sessionExportId": "s8",
+      "ply": 4,
+      "observedAt": "2026-10-27 08:59:49",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+      "uci": "b8c6",
+      "san": "Nc6"
+    },
+    {
+      "sessionExportId": "s8",
+      "ply": 5,
+      "observedAt": "2026-10-27 08:59:50",
+      "source": "manual",
+      "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "uci": "b1c3",
+      "san": "Nc3"
+    },
+    {
+      "sessionExportId": "s8",
+      "ply": 6,
+      "observedAt": "2026-10-27 08:59:51",
+      "source": "manual",
+      "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -",
+      "uci": "g8f6",
+      "san": "Nf6"
+    },
+    {
+      "sessionExportId": "s8",
+      "ply": 7,
+      "observedAt": "2026-10-27 08:59:53",
+      "source": "manual",
+      "fromKey": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -",
+      "uci": "f1b5",
+      "san": "Bb5"
+    },
+    {
+      "sessionExportId": "s8",
+      "ply": 8,
+      "observedAt": "2026-10-27 08:59:54",
+      "source": "manual",
+      "fromKey": "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -",
+      "uci": "f8c5",
+      "san": "Bc5"
+    },
+    {
+      "sessionExportId": "s8",
+      "ply": 9,
+      "observedAt": "2026-10-27 08:59:56",
+      "source": "manual",
+      "fromKey": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq -",
+      "uci": "e1g1",
+      "san": "O-O"
+    },
+    {
+      "sessionExportId": "s8",
+      "ply": 10,
+      "observedAt": "2026-10-27 08:59:59",
+      "source": "manual",
+      "fromKey": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq -",
+      "uci": "d7d6",
+      "san": "d6"
+    },
+    {
+      "sessionExportId": "s8",
+      "ply": 11,
+      "observedAt": "2026-10-27 09:00:00",
+      "source": "manual",
+      "fromKey": "r1bqk2r/ppp2ppp/2np1n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq -",
+      "uci": "d2d4",
+      "san": "d4"
+    },
+    {
+      "sessionExportId": "s9",
+      "ply": 1,
+      "observedAt": "2026-10-27 09:00:32",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -",
+      "uci": "e2e4",
+      "san": "e4"
+    },
+    {
+      "sessionExportId": "s9",
+      "ply": 2,
+      "observedAt": "2026-10-27 09:00:44",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -",
+      "uci": "e7e5",
+      "san": "e5"
+    },
+    {
+      "sessionExportId": "s9",
+      "ply": 3,
+      "observedAt": "2026-10-27 09:00:45",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "uci": "g1f3",
+      "san": "Nf3"
+    },
+    {
+      "sessionExportId": "s9",
+      "ply": 4,
+      "observedAt": "2026-10-27 09:00:47",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+      "uci": "b8c6",
+      "san": "Nc6"
+    },
+    {
+      "sessionExportId": "s9",
+      "ply": 5,
+      "observedAt": "2026-10-27 09:00:51",
+      "source": "manual",
+      "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "uci": "b1c3",
+      "san": "Nc3"
+    },
+    {
+      "sessionExportId": "s9",
+      "ply": 6,
+      "observedAt": "2026-10-27 09:00:55",
+      "source": "manual",
+      "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -",
+      "uci": "f8c5",
+      "san": "Bc5"
+    },
+    {
+      "sessionExportId": "s9",
+      "ply": 7,
+      "observedAt": "2026-10-27 09:01:01",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/2n5/2b1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -",
+      "uci": "f3e5",
+      "san": "Nxe5"
+    },
+    {
+      "sessionExportId": "s9",
+      "ply": 8,
+      "observedAt": "2026-10-27 09:01:08",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/2n5/2b1N3/4P3/2N5/PPPP1PPP/R1BQKB1R b KQkq -",
+      "uci": "c6e5",
+      "san": "Nxe5"
+    },
+    {
+      "sessionExportId": "s9",
+      "ply": 9,
+      "observedAt": "2026-10-27 09:01:11",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/8/2b1n3/4P3/2N5/PPPP1PPP/R1BQKB1R w KQkq -",
+      "uci": "d2d4",
+      "san": "d4"
+    },
+    {
+      "sessionExportId": "s9",
+      "ply": 10,
+      "observedAt": "2026-10-27 09:01:19",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/8/2b1n3/3PP3/2N5/PPP2PPP/R1BQKB1R b KQkq -",
+      "uci": "c5d6",
+      "san": "Bd6"
+    },
+    {
+      "sessionExportId": "s9",
+      "ply": 11,
+      "observedAt": "2026-10-27 09:01:20",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/3b4/4n3/3PP3/2N5/PPP2PPP/R1BQKB1R w KQkq -",
+      "uci": "d4e5",
+      "san": "dxe5"
+    },
+    {
+      "sessionExportId": "s9",
+      "ply": 12,
+      "observedAt": "2026-10-27 09:01:24",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/3b4/4P3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq -",
+      "uci": "d6e5",
+      "san": "Bxe5"
+    },
+    {
+      "sessionExportId": "s9",
+      "ply": 13,
+      "observedAt": "2026-10-27 09:01:27",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/8/4b3/4P3/2N5/PPP2PPP/R1BQKB1R w KQkq -",
+      "uci": "f1d3",
+      "san": "Bd3"
+    },
+    {
+      "sessionExportId": "s9",
+      "ply": 14,
+      "observedAt": "2026-10-27 09:01:34",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/8/4b3/4P3/2NB4/PPP2PPP/R1BQK2R b KQkq -",
+      "uci": "g8f6",
+      "san": "Nf6"
+    },
+    {
+      "sessionExportId": "s9",
+      "ply": 15,
+      "observedAt": "2026-10-27 09:01:39",
+      "source": "manual",
+      "fromKey": "r1bqk2r/pppp1ppp/5n2/4b3/4P3/2NB4/PPP2PPP/R1BQK2R w KQkq -",
+      "uci": "e1g1",
+      "san": "O-O"
+    },
+    {
+      "sessionExportId": "s10",
+      "ply": 1,
+      "observedAt": "2026-10-27 09:01:51",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -",
+      "uci": "e2e4",
+      "san": "e4"
+    },
+    {
+      "sessionExportId": "s10",
+      "ply": 2,
+      "observedAt": "2026-10-27 09:01:52",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -",
+      "uci": "e7e5",
+      "san": "e5"
+    },
+    {
+      "sessionExportId": "s10",
+      "ply": 3,
+      "observedAt": "2026-10-27 09:01:53",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "uci": "g1f3",
+      "san": "Nf3"
+    },
+    {
+      "sessionExportId": "s10",
+      "ply": 4,
+      "observedAt": "2026-10-27 09:01:54",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+      "uci": "b8c6",
+      "san": "Nc6"
+    },
+    {
+      "sessionExportId": "s10",
+      "ply": 5,
+      "observedAt": "2026-10-27 09:01:56",
+      "source": "manual",
+      "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "uci": "b1c3",
+      "san": "Nc3"
+    },
+    {
+      "sessionExportId": "s10",
+      "ply": 6,
+      "observedAt": "2026-10-27 09:02:03",
+      "source": "manual",
+      "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -",
+      "uci": "f8c5",
+      "san": "Bc5"
+    },
+    {
+      "sessionExportId": "s10",
+      "ply": 7,
+      "observedAt": "2026-10-27 09:02:04",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/2n5/2b1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -",
+      "uci": "f3e5",
+      "san": "Nxe5"
+    },
+    {
+      "sessionExportId": "s10",
+      "ply": 8,
+      "observedAt": "2026-10-27 09:02:06",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/2n5/2b1N3/4P3/2N5/PPPP1PPP/R1BQKB1R b KQkq -",
+      "uci": "c6e5",
+      "san": "Nxe5"
+    },
+    {
+      "sessionExportId": "s10",
+      "ply": 9,
+      "observedAt": "2026-10-27 09:02:07",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/8/2b1n3/4P3/2N5/PPPP1PPP/R1BQKB1R w KQkq -",
+      "uci": "d2d4",
+      "san": "d4"
+    },
+    {
+      "sessionExportId": "s10",
+      "ply": 10,
+      "observedAt": "2026-10-27 09:02:09",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/8/2b1n3/3PP3/2N5/PPP2PPP/R1BQKB1R b KQkq -",
+      "uci": "c5d6",
+      "san": "Bd6"
+    },
+    {
+      "sessionExportId": "s10",
+      "ply": 11,
+      "observedAt": "2026-10-27 09:02:09",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/3b4/4n3/3PP3/2N5/PPP2PPP/R1BQKB1R w KQkq -",
+      "uci": "d4e5",
+      "san": "dxe5"
+    },
+    {
+      "sessionExportId": "s10",
+      "ply": 12,
+      "observedAt": "2026-10-27 09:02:11",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/3b4/4P3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq -",
+      "uci": "d6e5",
+      "san": "Bxe5"
+    },
+    {
+      "sessionExportId": "s10",
+      "ply": 13,
+      "observedAt": "2026-10-27 09:02:12",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/8/4b3/4P3/2N5/PPP2PPP/R1BQKB1R w KQkq -",
+      "uci": "f1d3",
+      "san": "Bd3"
+    },
+    {
+      "sessionExportId": "s10",
+      "ply": 14,
+      "observedAt": "2026-10-27 09:02:13",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/8/4b3/4P3/2NB4/PPP2PPP/R1BQK2R b KQkq -",
+      "uci": "g8f6",
+      "san": "Nf6"
+    },
+    {
+      "sessionExportId": "s10",
+      "ply": 15,
+      "observedAt": "2026-10-27 09:02:14",
+      "source": "manual",
+      "fromKey": "r1bqk2r/pppp1ppp/5n2/4b3/4P3/2NB4/PPP2PPP/R1BQK2R w KQkq -",
+      "uci": "e1g1",
+      "san": "O-O"
+    },
+    {
+      "sessionExportId": "s11",
+      "ply": 1,
+      "observedAt": "2026-10-27 09:02:37",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -",
+      "uci": "e2e4",
+      "san": "e4"
+    },
+    {
+      "sessionExportId": "s11",
+      "ply": 2,
+      "observedAt": "2026-10-27 09:02:38",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -",
+      "uci": "e7e5",
+      "san": "e5"
+    },
+    {
+      "sessionExportId": "s11",
+      "ply": 3,
+      "observedAt": "2026-10-27 09:02:39",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "uci": "g1f3",
+      "san": "Nf3"
+    },
+    {
+      "sessionExportId": "s11",
+      "ply": 4,
+      "observedAt": "2026-10-27 09:02:40",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+      "uci": "b8c6",
+      "san": "Nc6"
+    },
+    {
+      "sessionExportId": "s11",
+      "ply": 5,
+      "observedAt": "2026-10-27 09:02:43",
+      "source": "manual",
+      "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "uci": "b1c3",
+      "san": "Nc3"
+    },
+    {
+      "sessionExportId": "s11",
+      "ply": 6,
+      "observedAt": "2026-10-27 09:02:48",
+      "source": "manual",
+      "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -",
+      "uci": "f8c5",
+      "san": "Bc5"
+    },
+    {
+      "sessionExportId": "s11",
+      "ply": 7,
+      "observedAt": "2026-10-27 09:02:53",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/2n5/2b1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -",
+      "uci": "f3e5",
+      "san": "Nxe5"
+    },
+    {
+      "sessionExportId": "s11",
+      "ply": 8,
+      "observedAt": "2026-10-27 09:02:54",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/2n5/2b1N3/4P3/2N5/PPPP1PPP/R1BQKB1R b KQkq -",
+      "uci": "c6e5",
+      "san": "Nxe5"
+    },
+    {
+      "sessionExportId": "s11",
+      "ply": 9,
+      "observedAt": "2026-10-27 09:03:00",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/8/2b1n3/4P3/2N5/PPPP1PPP/R1BQKB1R w KQkq -",
+      "uci": "d2d4",
+      "san": "d4"
+    },
+    {
+      "sessionExportId": "s11",
+      "ply": 10,
+      "observedAt": "2026-10-27 09:03:02",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/8/2b1n3/3PP3/2N5/PPP2PPP/R1BQKB1R b KQkq -",
+      "uci": "c5d6",
+      "san": "Bd6"
+    },
+    {
+      "sessionExportId": "s11",
+      "ply": 11,
+      "observedAt": "2026-10-27 09:03:04",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/3b4/4n3/3PP3/2N5/PPP2PPP/R1BQKB1R w KQkq -",
+      "uci": "d4e5",
+      "san": "dxe5"
+    },
+    {
+      "sessionExportId": "s11",
+      "ply": 12,
+      "observedAt": "2026-10-27 09:03:10",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/3b4/4P3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq -",
+      "uci": "d6e5",
+      "san": "Bxe5"
+    },
+    {
+      "sessionExportId": "s11",
+      "ply": 13,
+      "observedAt": "2026-10-27 09:03:12",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/8/4b3/4P3/2N5/PPP2PPP/R1BQKB1R w KQkq -",
+      "uci": "f1d3",
+      "san": "Bd3"
+    },
+    {
+      "sessionExportId": "s11",
+      "ply": 14,
+      "observedAt": "2026-10-27 09:03:18",
+      "source": "manual",
+      "fromKey": "r1bqk1nr/pppp1ppp/8/4b3/4P3/2NB4/PPP2PPP/R1BQK2R b KQkq -",
+      "uci": "g8f6",
+      "san": "Nf6"
+    },
+    {
+      "sessionExportId": "s11",
+      "ply": 15,
+      "observedAt": "2026-10-27 09:03:22",
+      "source": "manual",
+      "fromKey": "r1bqk2r/pppp1ppp/5n2/4b3/4P3/2NB4/PPP2PPP/R1BQK2R w KQkq -",
+      "uci": "e1g1",
+      "san": "O-O"
+    },
+    {
+      "sessionExportId": "s12",
+      "ply": 1,
+      "observedAt": "2026-10-27 09:05:09",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -",
+      "uci": "e2e4",
+      "san": "e4"
+    },
+    {
+      "sessionExportId": "s12",
+      "ply": 2,
+      "observedAt": "2026-10-27 09:05:10",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -",
+      "uci": "e7e5",
+      "san": "e5"
+    },
+    {
+      "sessionExportId": "s12",
+      "ply": 3,
+      "observedAt": "2026-10-27 09:05:11",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "uci": "g1f3",
+      "san": "Nf3"
+    },
+    {
+      "sessionExportId": "s12",
+      "ply": 4,
+      "observedAt": "2026-10-27 09:05:15",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+      "uci": "g8f6",
+      "san": "Nf6"
+    },
+    {
+      "sessionExportId": "s12",
+      "ply": 5,
+      "observedAt": "2026-10-27 09:05:17",
+      "source": "manual",
+      "fromKey": "rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "uci": "f3e5",
+      "san": "Nxe5"
+    },
+    {
+      "sessionExportId": "s12",
+      "ply": 6,
+      "observedAt": "2026-10-27 09:05:22",
+      "source": "manual",
+      "fromKey": "rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq -",
+      "uci": "d7d6",
+      "san": "d6"
+    },
+    {
+      "sessionExportId": "s12",
+      "ply": 7,
+      "observedAt": "2026-10-27 09:05:24",
+      "source": "manual",
+      "fromKey": "rnbqkb1r/ppp2ppp/3p1n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq -",
+      "uci": "e5f3",
+      "san": "Nf3"
+    },
+    {
+      "sessionExportId": "s12",
+      "ply": 8,
+      "observedAt": "2026-10-27 09:05:30",
+      "source": "manual",
+      "fromKey": "rnbqkb1r/ppp2ppp/3p1n2/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -",
+      "uci": "f6e4",
+      "san": "Nxe4"
+    },
+    {
+      "sessionExportId": "s12",
+      "ply": 9,
+      "observedAt": "2026-10-27 09:05:33",
+      "source": "manual",
+      "fromKey": "rnbqkb1r/ppp2ppp/3p4/8/4n3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+      "uci": "d2d4",
+      "san": "d4"
+    },
+    {
+      "sessionExportId": "s12",
+      "ply": 10,
+      "observedAt": "2026-10-27 09:05:40",
+      "source": "manual",
+      "fromKey": "rnbqkb1r/ppp2ppp/3p4/8/3Pn3/5N2/PPP2PPP/RNBQKB1R b KQkq -",
+      "uci": "d6d5",
+      "san": "d5"
+    },
+    {
+      "sessionExportId": "s12",
+      "ply": 11,
+      "observedAt": "2026-10-27 09:05:42",
+      "source": "manual",
+      "fromKey": "rnbqkb1r/ppp2ppp/8/3p4/3Pn3/5N2/PPP2PPP/RNBQKB1R w KQkq -",
+      "uci": "f1d3",
+      "san": "Bd3"
+    },
+    {
+      "sessionExportId": "s12",
+      "ply": 12,
+      "observedAt": "2026-10-27 09:05:48",
+      "source": "manual",
+      "fromKey": "rnbqkb1r/ppp2ppp/8/3p4/3Pn3/3B1N2/PPP2PPP/RNBQK2R b KQkq -",
+      "uci": "f8d6",
+      "san": "Bd6"
+    },
+    {
+      "sessionExportId": "s12",
+      "ply": 13,
+      "observedAt": "2026-10-27 09:05:54",
+      "source": "manual",
+      "fromKey": "rnbqk2r/ppp2ppp/3b4/3p4/3Pn3/3B1N2/PPP2PPP/RNBQK2R w KQkq -",
+      "uci": "e1g1",
+      "san": "O-O"
+    },
+    {
+      "sessionExportId": "s13",
+      "ply": 1,
+      "observedAt": "2026-10-27 09:06:02",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -",
+      "uci": "e2e4",
+      "san": "e4"
+    },
+    {
+      "sessionExportId": "s13",
+      "ply": 2,
+      "observedAt": "2026-10-27 09:06:03",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -",
+      "uci": "e7e5",
+      "san": "e5"
+    },
+    {
+      "sessionExportId": "s13",
+      "ply": 3,
+      "observedAt": "2026-10-27 09:06:08",
+      "source": "manual",
+      "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+      "uci": "g1f3",
+      "san": "Nf3"
+    }
+  ],
+  "openings": [
+    {
+      "name": "Test Opening",
+      "source": "Lotus Lesson 1",
+      "notes": null,
+      "createdAt": "2026-10-27 08:47:56",
+      "updatedAt": "2026-10-27 08:47:56",
+      "line": [
+        {
+          "ply": 1,
+          "uci": "e2e4",
+          "san": "e4",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -"
+        },
+        {
+          "ply": 2,
+          "uci": "e7e5",
+          "san": "e5",
+          "fromKey": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -"
+        },
+        {
+          "ply": 3,
+          "uci": "g1f3",
+          "san": "Nf3",
+          "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -"
+        },
+        {
+          "ply": 4,
+          "uci": "b8c6",
+          "san": "Nc6",
+          "fromKey": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -"
+        },
+        {
+          "ply": 5,
+          "uci": "b1c3",
+          "san": "Nc3",
+          "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -"
+        },
+        {
+          "ply": 6,
+          "uci": "g8f6",
+          "san": "Nf6",
+          "fromKey": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -"
+        }
+      ]
+    }
+  ]
+}

@@ -5,6 +5,7 @@ import cors from 'cors';
 import { HttpError } from './lib/httpError.js';
 import { openDatabase, PROJECT_ROOT, resolveDbPath } from './db/database.js';
 import { mountRoutes } from './routes.js';
+import { scheduleLibraryBackup } from './services/backup.js';
 
 export function createApp(options = {}) {
   const dbPath = resolveDbPath(options.dbPath);
@@ -17,6 +18,16 @@ export function createApp(options = {}) {
   app.use(express.json({ limit: '12mb' }));
   app.use((req, _res, next) => {
     req.db = db;
+    next();
+  });
+
+  app.use((req, res, next) => {
+    res.on('finish', () => {
+      if (req.method === 'GET' || req.method === 'HEAD' || req.method === 'OPTIONS') return;
+      if (!req.originalUrl.startsWith('/api')) return;
+      if (res.statusCode >= 400) return;
+      scheduleLibraryBackup(db, dbPath);
+    });
     next();
   });
 

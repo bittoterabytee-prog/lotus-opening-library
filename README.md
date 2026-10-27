@@ -72,6 +72,14 @@ export LOTUS_DB_PATH=/path/to/lotus-openings.sqlite
 
 Startup never deletes or recreates an existing database. Schema changes go through `schema_migrations`.
 
+Every accepted move, named opening, and import is written to SQLite immediately. The same snapshot is also written to:
+
+```
+<data directory>/library-backup.json
+```
+
+If this folder is a git repository with a remote (for example the GitHub copy), that JSON file is committed and pushed a few seconds later. Your learned lines stay on disk even if GitHub is unreachable. Set `LOTUS_DISABLE_GIT_BACKUP=1` to keep the local JSON backup without pushing. Set `LOTUS_DISABLE_BACKUP=1` to skip the JSON file as well.
+
 ## How encounters are counted
 
 An **observed encounter** is one accepted move event that the server persisted.
@@ -108,7 +116,7 @@ client/                 React + Vite UI
 server/src/             Express API and SQLite services
 server/src/db/          Schema, migrations, database helpers
 server/tests/           Unit and integration tests
-data/                   SQLite file (created at runtime)
+data/                   SQLite file plus GitHub JSON backup
 ```
 
 ## Troubleshooting

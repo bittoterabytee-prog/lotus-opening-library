@@ -23,6 +23,7 @@ import {
   updateOpening,
 } from './services/openings.js';
 import { exportLibrary, importLibrary } from './services/importExport.js';
+import { getBackupStatus } from './services/backup.js';
 
 export function mountRoutes(app) {
   app.get('/api/health', (req, res) => {
@@ -30,6 +31,7 @@ export function mountRoutes(app) {
       ok: true,
       dbPath: req.app.locals.dbPath || resolveDbPath(),
       defaultDbPath: DEFAULT_DB_PATH,
+      backup: getBackupStatus(),
     });
   });
 
